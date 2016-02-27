@@ -46,20 +46,6 @@ h1 {
   color: #8A076C;
 }
 
-form button {
-  background: -webkit-linear-gradient(top, #f9f9f9, #e3e3e3);
-  border: 1px solid #999;
-  border-radius: 3px;
-  padding: 5px 8px;
-  font-size: 20px;
-  display: block;
-  font-family: sans-serif;
-  cursor: pointer;
-  clear: both;
-  top: 10px;
-  position: relative;
-}
-
 #filename {
   margin-top: 14px;
   margin-bottom: 20px;
