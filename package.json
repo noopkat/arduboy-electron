@@ -1,0 +1,9 @@
+{
+  "name": "your-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "avrgirl-arduino": "^1.4.12",
+    "electron-rebuild": "^1.0.2"
+  }
+}

@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'ScreenMatrix';
+  src: url('../fonts/ScreenMatrix.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CourierNew';
+  src: url('../fonts/CourierNew.ttf') format('truetype');
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #FFEAED;
+  padding-left: 50px;
+}
+
+h1 {
+  font-family: 'ScreenMatrix', sans-serif;
+  font-size: 50px;
+}
+
+#arduboy {
+  display: relative;
+  float: left;
+}
+
+#arduboy svg {
+  -webkit-transform: rotate(5deg);
+  margin-top: 30px;
+}
+
+#arduboy #screenText {
+  font-family: 'CourierNew', monospace;
+}
+
+#left {
+  display: relative;
+  float: left;
+  width: 400px;
+}
+
+#left p {
+  font-size: 18px;
+  padding-bottom: 20px;
+  line-height: 1.5em;
+  color: #8A076C;
+}
+
+form button {
+  background: -webkit-linear-gradient(top, #f9f9f9, #e3e3e3);
+  border: 1px solid #999;
+  border-radius: 3px;
+  padding: 5px 8px;
+  font-size: 20px;
+  display: block;
+  font-family: sans-serif;
+  cursor: pointer;
+  clear: both;
+  top: 10px;
+  position: relative;
+}
+
+#filename {
+  margin-top: 14px;
+  margin-bottom: 20px;
+  float: left;
+  position: relative;
+  color: #8A076C;
+}
