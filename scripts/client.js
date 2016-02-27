@@ -14,6 +14,7 @@
 
     if (!file.name.match('\.hex$')) {
       console.log('not a hex');
+      screenText.textContent = "bad file :(";
       return;
     }
 
