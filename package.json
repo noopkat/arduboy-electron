@@ -1,5 +1,5 @@
 {
-  "name": "your-app",
+  "name": "Arduboy-Electron",
   "version": "0.1.0",
   "main": "main.js",
   "devDependencies": {
