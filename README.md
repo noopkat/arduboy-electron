@@ -1,6 +1,6 @@
 # Arduboy Electron
 
-An app to upload games to the Arduboy! Made with NodeJS, Electron and love :heart:
+An app to upload games to the Arduboy! Made with NodeJS, Electron, and love :heart:
 
 ![arduboy illustration](http://cl.ly/29001L1A0001/arduboy.png)
 
