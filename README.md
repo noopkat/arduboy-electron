@@ -13,8 +13,7 @@ An app to upload games to the Arduboy! Made with NodeJS, Electron, and love :hea
 
 ## Coming soon
 
-1. Actual distributions for each platform
-2. Installation instructions for hackers/tinkerers
-3. Blog post
-4. Install from a URL!
-5. Some kind of very simple remote game package manager (!!)
+1. Installation instructions for hackers/tinkerers
+2. Blog post
+3. Install from a URL!
+4. Some kind of very simple remote game package manager (!!)
